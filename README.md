@@ -22,6 +22,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="img/js.png" alt="javascript" width="40" height="40"/></a>
   <a href="https://angular.io" target="_blank"> <img src="img/angular.png" alt="angularjs" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="img/typescript.png" alt="typescript" width="40" height="40"/></a>
+  <a href="https://nestjs.com/" target="_blank"> <img src="img/nest-logo.png" alt="Nestjs" width="40" height="40"/></a>
   <a href="https://www.java.com" target="_blank"> <img src="img/java.png" alt="java" width="40" height="40"/></a>
   <a href="https://spring.io/" target="_blank"> <img src="img/spring.png" alt="spring" width="40" height="40"/></a>
   <a href="https://aws.amazon.com" target="_blank"> <img src="img/aws.png" alt="aws" width="40" height="40"/></a>
